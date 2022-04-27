@@ -1,0 +1,36 @@
+public class FaceBookPlaylist{
+
+public void musics(){
+
+System.out.println("Common Music section should be added respect to singers categorywise")
+
+System.out.println("In The section user can able to upload musics");
+}
+
+public void addMusics(){
+
+system.out.println("This Library playlist is Empty");
+
+Functions to add musics via uploading from user Mobile
+
+}
+
+public void musicplaylist(){
+
+System.out.println("Playlist created");
+
+}
+public void accessfollowers(){
+System.out.println("Users allow their followers to listen their favorites")
+}
+
+public static void main(String[]args){
+
+FaceBookPlaylist ob=new FaceBookPlaylist();
+
+ob.musics();
+
+ob.addMusics();
+
+ob.musicplaylist();
+
